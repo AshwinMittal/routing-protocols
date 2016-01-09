@@ -1,0 +1,2 @@
+all:
+	gcc -w -g header.h main.c functions.c server.c -o server
